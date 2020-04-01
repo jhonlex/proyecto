@@ -1,0 +1,18 @@
+Diseño web - Introducción a HTML y CSS
+https://www.youtube.com/watch?v=80iLm9nOumE
+
+¿QUÉ ES GIT Y GITHUB?
+https://www.youtube.com/watch?v=YlBy34ECh2s
+
+Estructura Basica Pagina Web HTML 5 Y CSS3
+https://www.youtube.com/watch?v=yD9-2zyQhdo
+
+¿Qué es Git y cómo funciona?
+https://www.youtube.com/watch?v=jGehuhFhtnE&t=1s
+
+Como subir proyecto a Github fácilmente
+https://www.youtube.com/watch?v=H03E8_HImAU
+
+Como hacer un Menú Basico y Moderno con HTML5 y CSS3 
+https://www.youtube.com/watch?v=xd8AB8-W4EI
+
